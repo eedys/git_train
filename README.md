@@ -2,3 +2,8 @@
 
 ---
 commit test
+
+
+--------
+git reset 테스트 
+첫번쨰 커밋1
