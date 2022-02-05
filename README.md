@@ -7,3 +7,4 @@ commit test
 --------
 git reset 테스트 
 첫번쨰 커밋1
+강제 푸시
